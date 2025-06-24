@@ -1,0 +1,641 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\productmanagementaspnetcorerazorpage\\pages\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|solutionrelative:productmanagementaspnetcorerazorpage\\pages\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\productmanagementaspnetcorerazorpage\\pages\\product\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|solutionrelative:productmanagementaspnetcorerazorpage\\pages\\product\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\productmanagementaspnetcorerazorpage\\pages\\product\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|solutionrelative:productmanagementaspnetcorerazorpage\\pages\\product\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639FD507-B5B0-4CF2-B78B-EE2F6591A7D1}|DataAccessLayer\\DataAccessLayer.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639FD507-B5B0-4CF2-B78B-EE2F6591A7D1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639FD507-B5B0-4CF2-B78B-EE2F6591A7D1}|DataAccessLayer\\DataAccessLayer.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\dataaccesslayer\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639FD507-B5B0-4CF2-B78B-EE2F6591A7D1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\productmanagementaspnetcorerazorpage\\pages\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|solutionrelative:productmanagementaspnetcorerazorpage\\pages\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBE3729-1B62-4DC9-9D70-4D314BB7932C}|BusinessObject\\BusinessObject.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\businessobject\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBE3729-1B62-4DC9-9D70-4D314BB7932C}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\productmanagementaspnetcorerazorpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|solutionrelative:productmanagementaspnetcorerazorpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\productmanagementaspnetcorerazorpage\\pages\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|solutionrelative:productmanagementaspnetcorerazorpage\\pages\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\productmanagementaspnetcorerazorpage\\pages\\product\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|solutionrelative:productmanagementaspnetcorerazorpage\\pages\\product\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\productmanagementaspnetcorerazorpage\\pages\\product\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|solutionrelative:productmanagementaspnetcorerazorpage\\pages\\product\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\productmanagementaspnetcorerazorpage\\pages\\product\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|solutionrelative:productmanagementaspnetcorerazorpage\\pages\\product\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\productmanagementaspnetcorerazorpage\\pages\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|solutionrelative:productmanagementaspnetcorerazorpage\\pages\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\productmanagementaspnetcorerazorpage\\pages\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|solutionrelative:productmanagementaspnetcorerazorpage\\pages\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639FD507-B5B0-4CF2-B78B-EE2F6591A7D1}|DataAccessLayer\\DataAccessLayer.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639FD507-B5B0-4CF2-B78B-EE2F6591A7D1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639FD507-B5B0-4CF2-B78B-EE2F6591A7D1}|DataAccessLayer\\DataAccessLayer.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\dataaccesslayer\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639FD507-B5B0-4CF2-B78B-EE2F6591A7D1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\productmanagementaspnetcorerazorpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|solutionrelative:productmanagementaspnetcorerazorpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBE3729-1B62-4DC9-9D70-4D314BB7932C}|BusinessObject\\BusinessObject.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\businessobject\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBE3729-1B62-4DC9-9D70-4D314BB7932C}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\productmanagementaspnetcorerazorpage\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|solutionrelative:productmanagementaspnetcorerazorpage\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\productmanagementaspnetcorerazorpage\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|solutionrelative:productmanagementaspnetcorerazorpage\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\productmanagementaspnetcorerazorpage\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|solutionrelative:productmanagementaspnetcorerazorpage\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\productmanagementaspnetcorerazorpage\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|solutionrelative:productmanagementaspnetcorerazorpage\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\productmanagementaspnetcorerazorpage\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|solutionrelative:productmanagementaspnetcorerazorpage\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E25882-AE58-4189-A806-9D3652876A1F}|Repositories\\Repositories.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E25882-AE58-4189-A806-9D3652876A1F}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E25882-AE58-4189-A806-9D3652876A1F}|Repositories\\Repositories.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E25882-AE58-4189-A806-9D3652876A1F}|Repositories\\Repositories.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E25882-AE58-4189-A806-9D3652876A1F}|Repositories\\Repositories.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E25882-AE58-4189-A806-9D3652876A1F}|Repositories\\Repositories.csproj|solutionrelative:repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\productmanagementaspnetcorerazorpage\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|solutionrelative:productmanagementaspnetcorerazorpage\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\productmanagementaspnetcorerazorpage\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|solutionrelative:productmanagementaspnetcorerazorpage\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560EF809-B02E-4EA2-ADBD-ADB97A8F0CDA}|Services\\Services.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560EF809-B02E-4EA2-ADBD-ADB97A8F0CDA}|Services\\Services.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560EF809-B02E-4EA2-ADBD-ADB97A8F0CDA}|Services\\Services.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560EF809-B02E-4EA2-ADBD-ADB97A8F0CDA}|Services\\Services.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560EF809-B02E-4EA2-ADBD-ADB97A8F0CDA}|Services\\Services.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560EF809-B02E-4EA2-ADBD-ADB97A8F0CDA}|Services\\Services.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560EF809-B02E-4EA2-ADBD-ADB97A8F0CDA}|Services\\Services.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560EF809-B02E-4EA2-ADBD-ADB97A8F0CDA}|Services\\Services.csproj|solutionrelative:services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560EF809-B02E-4EA2-ADBD-ADB97A8F0CDA}|Services\\Services.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560EF809-B02E-4EA2-ADBD-ADB97A8F0CDA}|Services\\Services.csproj|solutionrelative:services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560EF809-B02E-4EA2-ADBD-ADB97A8F0CDA}|Services\\Services.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560EF809-B02E-4EA2-ADBD-ADB97A8F0CDA}|Services\\Services.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E25882-AE58-4189-A806-9D3652876A1F}|Repositories\\Repositories.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E25882-AE58-4189-A806-9D3652876A1F}|Repositories\\Repositories.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E25882-AE58-4189-A806-9D3652876A1F}|Repositories\\Repositories.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E25882-AE58-4189-A806-9D3652876A1F}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E25882-AE58-4189-A806-9D3652876A1F}|Repositories\\Repositories.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E25882-AE58-4189-A806-9D3652876A1F}|Repositories\\Repositories.csproj|solutionrelative:repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|e:\\se_summer2025_s7\\prn222\\lab2\\source\\productmanagementaspnetcorerazorpages\\productmanagementaspnetcorerazorpage\\productmanagementaspnetcorerazorpage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95B5929B-E9CF-48D4-B937-3BEDC9E8BE1C}|ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj|solutionrelative:productmanagementaspnetcorerazorpage\\productmanagementaspnetcorerazorpage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Edit.cshtml.cs",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Edit.cshtml.cs",
+              "RelativeToolTip": "ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Edit.cshtml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:02:15.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Create.cshtml",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Create.cshtml",
+              "RelativeToolTip": "ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T03:02:14.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Create.cshtml.cs",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Create.cshtml.cs",
+              "RelativeToolTip": "ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Create.cshtml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:02:15.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\DataAccessLayer\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ProductDAO.cs",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\DataAccessLayer\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\ProductDAO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:25:23.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\BusinessObject\\Product.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Product.cs",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\BusinessObject\\Product.cs",
+              "RelativeToolTip": "BusinessObject\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T13:55:48.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductManagementASPNETCoreRazorPage\\appsettings.json",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\appsettings.json",
+              "RelativeToolTip": "ProductManagementASPNETCoreRazorPage\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T06:20:44.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyStoreContext.cs",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\DataAccessLayer\\MyStoreContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\MyStoreContext.cs",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\DataAccessLayer\\MyStoreContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\MyStoreContext.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAawEcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:20:29.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Delete.cshtml.cs",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Delete.cshtml.cs",
+              "RelativeToolTip": "ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Delete.cshtml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA1wDwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:02:15.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Edit.cshtml",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Edit.cshtml",
+              "RelativeToolTip": "ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T03:02:15.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Details.cshtml.cs",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Details.cshtml.cs",
+              "RelativeToolTip": "ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Details.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:02:15.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Index.cshtml",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Index.cshtml",
+              "RelativeToolTip": "ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T03:02:15.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Index.cshtml.cs",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Index.cshtml.cs",
+              "RelativeToolTip": "ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:02:15.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Delete.cshtml",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Delete.cshtml",
+              "RelativeToolTip": "ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T03:02:15.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Details.cshtml",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Details.cshtml",
+              "RelativeToolTip": "ProductManagementASPNETCoreRazorPage\\Pages\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T03:02:15.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\BusinessObject\\Category.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Category.cs",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\BusinessObject\\Category.cs",
+              "RelativeToolTip": "BusinessObject\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T13:55:49.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Program.cs",
+              "RelativeDocumentMoniker": "ProductManagementASPNETCoreRazorPage\\Program.cs",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Program.cs",
+              "RelativeToolTip": "ProductManagementASPNETCoreRazorPage\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:56:54.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementASPNETCoreRazorPage\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProductManagementASPNETCoreRazorPage\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T12:49:15.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\DataAccessLayer\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\AccountDAO.cs",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\DataAccessLayer\\AccountDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\AccountDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:23:44.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CategoryDAO.cs",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CategoryDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:23:59.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementASPNETCoreRazorPage\\Pages\\Index.cshtml",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ProductManagementASPNETCoreRazorPage\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T12:46:10.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ProductManagementASPNETCoreRazorPage\\Pages\\Index.cshtml.cs",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "ProductManagementASPNETCoreRazorPage\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:46:32.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementASPNETCoreRazorPage\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ProductManagementASPNETCoreRazorPage\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T12:49:17.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AccountRepository.cs",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:27:28.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:27:48.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductManagementASPNETCoreRazorPage\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductManagementASPNETCoreRazorPage\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T12:44:21.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementASPNETCoreRazorPage\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProductManagementASPNETCoreRazorPage\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T12:44:11.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementASPNETCoreRazorPage\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProductManagementASPNETCoreRazorPage\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T12:44:12.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IAccountRepository.cs",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "Repositories\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:27:58.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:28:59.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:28:55.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\ICategoryService.cs",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:28:52.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Services\\IAccountService.cs",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\Services\\IAccountService.cs",
+              "RelativeToolTip": "Services\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:28:44.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Services\\AccountService.cs",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\Services\\AccountService.cs",
+              "RelativeToolTip": "Services\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:28:24.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:28:39.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:28:17.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:28:12.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICategoryRepository.cs",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:28:08.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductManagementASPNETCoreRazorPage.csproj",
+              "DocumentMoniker": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj",
+              "RelativeDocumentMoniker": "ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj",
+              "ToolTip": "E:\\SE_SUMMER2025_S7\\PRN222\\Lab2\\source\\ProductManagementASPNETCoreRazorPages\\ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj",
+              "RelativeToolTip": "ProductManagementASPNETCoreRazorPage\\ProductManagementASPNETCoreRazorPage.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-23T06:24:47.784Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+E:\SE_SUMMER2025_S7\PRN222\Lab2\source\ProductManagementASPNETCoreRazorPages\Repositories\bin\Debug\net8.0\Repositories.deps.json
+E:\SE_SUMMER2025_S7\PRN222\Lab2\source\ProductManagementASPNETCoreRazorPages\Repositories\bin\Debug\net8.0\Repositories.dll
+E:\SE_SUMMER2025_S7\PRN222\Lab2\source\ProductManagementASPNETCoreRazorPages\Repositories\bin\Debug\net8.0\Repositories.pdb
+E:\SE_SUMMER2025_S7\PRN222\Lab2\source\ProductManagementASPNETCoreRazorPages\Repositories\bin\Debug\net8.0\BusinessObject.dll
+E:\SE_SUMMER2025_S7\PRN222\Lab2\source\ProductManagementASPNETCoreRazorPages\Repositories\bin\Debug\net8.0\DataAccessLayer.dll
+E:\SE_SUMMER2025_S7\PRN222\Lab2\source\ProductManagementASPNETCoreRazorPages\Repositories\bin\Debug\net8.0\DataAccessLayer.pdb
+E:\SE_SUMMER2025_S7\PRN222\Lab2\source\ProductManagementASPNETCoreRazorPages\Repositories\bin\Debug\net8.0\BusinessObject.pdb
+E:\SE_SUMMER2025_S7\PRN222\Lab2\source\ProductManagementASPNETCoreRazorPages\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+E:\SE_SUMMER2025_S7\PRN222\Lab2\source\ProductManagementASPNETCoreRazorPages\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\SE_SUMMER2025_S7\PRN222\Lab2\source\ProductManagementASPNETCoreRazorPages\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+E:\SE_SUMMER2025_S7\PRN222\Lab2\source\ProductManagementASPNETCoreRazorPages\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+E:\SE_SUMMER2025_S7\PRN222\Lab2\source\ProductManagementASPNETCoreRazorPages\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+E:\SE_SUMMER2025_S7\PRN222\Lab2\source\ProductManagementASPNETCoreRazorPages\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+E:\SE_SUMMER2025_S7\PRN222\Lab2\source\ProductManagementASPNETCoreRazorPages\Repositories\obj\Debug\net8.0\Repositories.dll
+E:\SE_SUMMER2025_S7\PRN222\Lab2\source\ProductManagementASPNETCoreRazorPages\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+E:\SE_SUMMER2025_S7\PRN222\Lab2\source\ProductManagementASPNETCoreRazorPages\Repositories\obj\Debug\net8.0\Repositories.pdb
+E:\SE_SUMMER2025_S7\PRN222\Lab2\source\ProductManagementASPNETCoreRazorPages\Repositories\obj\Debug\net8.0\ref\Repositories.dll

@@ -26,9 +26,15 @@ namespace ProductManagementASPNETCoreRazorPage.Pages.Product
 
         public IList<BusinessObject.Product> Product { get;set; } = default!;
 
-        public async Task OnGetAsync()
+        public async Task<IActionResult> OnGetAsync()
         {
-            Product = _productService.GetProducts();
+            if (!string.IsNullOrEmpty(HttpContext.Session.GetString("Account")))
+            {
+                Product = _productService.GetProducts();
+                return Page();
+            }
+            return RedirectToPage("/Login");
         }
+
     }
 }

@@ -3,8 +3,7 @@ using Services;
 using BusinessObject;
 using Microsoft.EntityFrameworkCore;
 using DataAccessLayer;
-
-
+using SignalRLab;
 
 namespace ProductManagementASPNETCoreRazorPage
 {
@@ -19,6 +18,7 @@ namespace ProductManagementASPNETCoreRazorPage
             builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
             builder.Services.AddScoped<IAccountRepository, AccountRepository>();
             builder.Services.AddScoped<ProductRepository>();
+
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
@@ -38,6 +38,8 @@ namespace ProductManagementASPNETCoreRazorPage
 
             builder.Services.AddRazorPages();
 
+            builder.Services.AddSignalR();
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -56,6 +58,8 @@ namespace ProductManagementASPNETCoreRazorPage
             app.MapRazorPages();
 
             app.MapFallbackToPage("/Product/Index");
+
+            app.MapHub<SignalrServer>("/signalRServer");
 
             app.Run();
         }

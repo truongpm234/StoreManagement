@@ -267,3 +267,7 @@ E:\SE_SUMMER2025_S7\PRN222\Lab2\source\ProductManagementASPNETCoreRazorPages\Pro
 E:\SE_SUMMER2025_S7\PRN222\Lab2\source\ProductManagementASPNETCoreRazorPages\ProductManagementASPNETCoreRazorPage\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
 E:\SE_SUMMER2025_S7\PRN222\Lab2\source\ProductManagementASPNETCoreRazorPages\ProductManagementASPNETCoreRazorPage\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
 E:\SE_SUMMER2025_S7\PRN222\Lab2\source\ProductManagementASPNETCoreRazorPages\ProductManagementASPNETCoreRazorPage\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+E:\SE_SUMMER2025_S7\PRN222\Lab2\source\ProductManagementASPNETCoreRazorPages\ProductManagementASPNETCoreRazorPage\bin\Debug\net8.0\libman.json
+E:\SE_SUMMER2025_S7\PRN222\Lab2\source\ProductManagementASPNETCoreRazorPages\ProductManagementASPNETCoreRazorPage\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+E:\SE_SUMMER2025_S7\PRN222\Lab2\source\ProductManagementASPNETCoreRazorPages\ProductManagementASPNETCoreRazorPage\bin\Debug\net8.0\SignalRLab.dll
+E:\SE_SUMMER2025_S7\PRN222\Lab2\source\ProductManagementASPNETCoreRazorPages\ProductManagementASPNETCoreRazorPage\bin\Debug\net8.0\SignalRLab.pdb

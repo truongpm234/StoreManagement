@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using BusinessObject;
 using DataAccessLayer;
 using Services;
+using Microsoft.AspNetCore.SignalR;
+using SignalRLab;
 
 namespace ProductManagementASPNETCoreRazorPage.Pages.Product
 {
@@ -16,12 +18,13 @@ namespace ProductManagementASPNETCoreRazorPage.Pages.Product
         private readonly DataAccessLayer.MyStoreContext _context;
         private readonly IProductService _productService;
         private readonly ICategoryService _categoryService;
-
-        public CreateModel(MyStoreContext context, IProductService productService, ICategoryService categoryService)
+        private readonly IHubContext<SignalrServer> _hubContext;
+        public CreateModel(MyStoreContext context, IProductService productService, ICategoryService categoryService, IHubContext<SignalrServer> hubContext)
         {
             _context = context;
             _productService = productService;
             _categoryService = categoryService;
+            _hubContext = hubContext;
         }
 
         public IActionResult OnGet()
@@ -43,7 +46,7 @@ namespace ProductManagementASPNETCoreRazorPage.Pages.Product
             }
 
             _productService.SaveProduct(Product);
-
+            await _hubContext.Clients.All.SendAsync("LoadAllItems");
             return RedirectToPage("./Index");
         }
     }
